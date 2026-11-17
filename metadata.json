@@ -1,0 +1,7 @@
+{
+  "name": "Math Game",
+  "description": "Material 3 Expressive math practice game with Addition, Subtraction, Multiplication, Division, Squares, and Square Roots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
